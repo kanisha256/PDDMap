@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213529498196",
+    "project_id": "pddmap-18dbd",
+    "storage_bucket": "pddmap-18dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213529498196:android:871e7d47437bca11ba93c1",
+        "android_client_info": {
+          "package_name": "com.example.pddmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213529498196-qqfvpuas7d47rv6a843ejgfeqph4hmm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDSAVNVmFLRid39NPTOJHH09w_XlD8GnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213529498196-qqfvpuas7d47rv6a843ejgfeqph4hmm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
